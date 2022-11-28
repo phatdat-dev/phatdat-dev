@@ -31,12 +31,14 @@ But in the future I want to do fullstack to find the intersection of creativity 
 
 # 🌀 Skills
 
-### Technology
+<!-- ### Technology -->
 
 <!-- https://shields.io/ xem cac link o day
 fast badge https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
-<!-- ### Languages -->
+
+### Languages
+
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -63,25 +65,26 @@ fast badge https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 # 📨 Contact me at
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="display: flex; flex-direction: row;">
-        <a href="mailto:phatdatfbi@gmail.com">
-            <img src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="ContactByEmail" height="32" width="32">
-        </a> 
-        <span style="width: 5px"></span>
-        <a href="https://www.m.me/wwww3q">
-            <img src="https://www.svgrepo.com/show/349451/messenger.svg" alt="ContactByMessenger" height="32" width="32">
-        </a>
-    </div>    
-</div>
+<p align="center">
+    <a href="mailto:phatdatfbi@gmail.com">
+        <img src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="ContactByEmail" height="32" width="32">
+    </a> 
+    <a href="https://www.m.me/wwww3q">
+        <img src="https://www.svgrepo.com/show/349451/messenger.svg" alt="ContactByMessenger" height="32" width="32">
+    </a>
+</p>
 
 # 📊 GitHub Statistics
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wwwwww3q&show_icons=true&theme=dark#gh-dark-mode-only" />
+</p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwwww3q&layout=compact" />
+</p>
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=wwwwww3q&style=flat&color=green" />
-</div>
+</p>
 
 <p align="center">
     <i>"Never give up."</i>
