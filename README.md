@@ -77,14 +77,14 @@ fast badge https://github.com/alexandresanlim/Badges4-README.md-Profile
 # 📊 GitHub Statistics
 
 <p align="center">
-    <img style="width:49%;" src="https://github-readme-stats.vercel.app/api?username=wwwwww3q&show_icons=true&theme=dark#gh-dark-mode-only" />
+    <img style="width:49%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wwwwww3q&show_icons=true&theme=dark#gh-dark-mode-only" />
     <img style="width:49%;" src="https://streak-stats.demolab.com/?user=wwwwww3q&theme=dark-smoky&date_format=n%2Fj%5B%2FY%5D" />
 </p>
 
 <!-- ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun) -->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwwww3q&layout=compact" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wwwwww3q&layout=compact" />
 </p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=wwwwww3q&style=flat&color=green" />
