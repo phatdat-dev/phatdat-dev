@@ -91,7 +91,7 @@ fast badge https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 
 <p align="center">
-  <a href="[https://www.m.me/wwww3q](https://profile-summary-for-github.com/user/wwwwww3q)">
+  <a href="https://profile-summary-for-github.com/user/wwwwww3q">
     <i>"Never give up."</i>    
   </a>
 </p>
