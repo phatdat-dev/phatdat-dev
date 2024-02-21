@@ -5,15 +5,15 @@
 
 # About me! 👋⛏
 
-- Like many other young people, is an enthusiastic person who loves to learn new things to learn, self-study and self-improvement.
+🔥 Like many other young people, is an enthusiastic person who loves to learn new things to learn, self-study and self-improvement.
 
-- A person who is able to withstand pressure, good time management, knows how to prioritize important work assigned.
+⚡️ A person who is able to withstand pressure, good time management, knows how to prioritize important work assigned.
 
-- Is a reliable friend, good communicator, and ready to help/share accumulated knowledge to teammates in any situation.
+🤝 Is a reliable friend, good communicator, and ready to help/share accumulated knowledge to teammates in any situation.
 
-- Always look at things in a positive light, always move forward, and always improve your skills to become the best.
+👀 Always look at things in a positive light, always move forward, and always improve your skills to become the best.
 
-- The goal in the next 5 years will be to become the mainstay of the company, the best and the best. Create high value to contribute to society
+💪 The goal in the next 5 years will be to become the key member, mainstay of the company. Create high value to contribute to society
 
 ### My Hobbies
 
@@ -62,6 +62,13 @@ fast badge https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![FigMa](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=trello&logoColor=white)
+![Planner](https://img.shields.io/badge/googlesheets-deepgreen?style=for-the-badge&logo=googlesheets&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📨 Contact me at
 
