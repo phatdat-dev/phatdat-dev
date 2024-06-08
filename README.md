@@ -70,6 +70,9 @@ fast badge https://github.com/alexandresanlim/Badges4-README.md-Profile
 ![Jira](https://img.shields.io/badge/jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white)
 
+### Blogs
+![Flutter CI/CD to TestFlight with Github Actions](https://viblo.asia/p/flutter-cicd-to-testflight-with-github-actions-0gdJzDlkVz5)
+
 # 📨 Contact me at
 
 <p align="center">
