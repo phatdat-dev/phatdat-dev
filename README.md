@@ -57,6 +57,7 @@ fast badge https://github.com/alexandresanlim/Badges4-README.md-Profile
 ### Frameworks or Library
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-purple?style=for-the-badge&logo=Odoo&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
