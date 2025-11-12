@@ -86,7 +86,10 @@ fast badge https://github.com/alexandresanlim/Badges4-README.md-Profile
 <p align="center">
     <a href="mailto:phatdat.dev@gmail.com">
         <img src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="ContactByEmail" height="32" width="32">
-    </a> 
+    </a>
+    <a href="https://www.facebook.com/phatdat.dev">
+        <img src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="ContactByFacebook" height="32" width="32">
+    </a>
     <a href="https://www.m.me/phatdat-dev">
         <img src="https://www.svgrepo.com/show/349451/messenger.svg" alt="ContactByMessenger" height="32" width="32">
     </a>
@@ -94,16 +97,16 @@ fast badge https://github.com/alexandresanlim/Badges4-README.md-Profile
         <img src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="ContactByLinkedin" height="32" width="32">
     </a>
     <a href="https://join.skype.com/invite/u9GzZvmTAbSR">
-        <img src="https://www.svgrepo.com/show/28718/skype.svg" alt="ContactByFacebook" height="32" width="32">
-    </a>
-    <a href="https://play.google.com/store/apps/developer?id=phatdat-dev">
-        <img src="https://www.svgrepo.com/show/303178/google-play-store-logo.svg" alt="ContactByMessenger" height="32" width="32">
-    </a>
-    <a href="https://www.facebook.com/phatdat.dev">
-        <img src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="ContactByMessenger" height="32" width="32">
+        <img src="https://www.svgrepo.com/show/28718/skype.svg" alt="ContactBySkype" height="32" width="32">
     </a>
     <a href="https://www.youtube.com/@sonySam.wwww3q">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="ContactByMessenger" height="32" width="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="ContactByYoutube" height="32" width="40">
+    </a>
+    <a href="https://play.google.com/store/apps/developer?id=phatdat-dev">
+        <img src="https://www.svgrepo.com/show/303178/google-play-store-logo.svg" alt="ContactByGooglePlay" height="32" width="32">
+    </a>
+    <a href="https://apps.apple.com/vn/developer/dat-nguyen/id20587024788">
+        <img src="https://www.svgrepo.com/show/353415/apple-app-store.svg" alt="ContactByAppStore" height="32" width="32">
     </a>
 </p>
 
